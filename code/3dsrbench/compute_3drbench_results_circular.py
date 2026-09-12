@@ -5,7 +5,7 @@ import pandas as pd
 
 ################
 dataset_name = '3DSRBenchv1'
-results_path = '../outputs/3dsrbench'
+results_path = '../../outputs/3dsrbench'
 results_file = f'results_{dataset_name}.csv'
 ################
 
